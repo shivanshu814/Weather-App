@@ -14,5 +14,8 @@
     "hbs": "^4.2.0",
     "mongoose": "^6.6.2",
     "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "handlebars-loader": "^1.7.3"
   }
 }
