@@ -1,0 +1,18 @@
+{
+  "name": "weatherwithexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node source/app.js"
+  },
+  "author": "Raya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "hbs": "^4.2.0",
+    "mongoose": "^6.6.2",
+    "validator": "^13.7.0"
+  }
+}
